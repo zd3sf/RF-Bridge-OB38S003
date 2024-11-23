@@ -58,6 +58,7 @@ Steps overview:
 6. **Flash ESPhome/Tasmota** to the RFbridge's internal ESP8265.
 
 Note: Some users (especially when falshing passthrough firmware) has experienced inteference between the onboard ESP8265 and OB38S003 while others did not and were able to erase and update the RF chip many times without erasing and having to reflash the ESP8265 with Tasmota/ESPhome. 
+[Detailed flashing guid](https://github.com/mightymos/OnbrightFlasher/blob/main/flashing-guide-by-example.md)
 
 ### Flasher (official)
 An official MSM9066 programmer or open source flasher (see below) can be used.  
